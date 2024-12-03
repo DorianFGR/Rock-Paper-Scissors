@@ -32,8 +32,6 @@ def game():
 
     computer = computerChoice()
     user = userChoice()
-    result = 0
-
 
 
     if user == computer:
