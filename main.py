@@ -1,3 +1,5 @@
+# Created by github.com/DorianFGR the 12/3/24
+
 import random
 
 def userChoice():
